@@ -8,7 +8,7 @@ This data analysis project aims to provide insights into the company's employees
 
 The dataset used for this analysis is the "HR_Analytics.csv" file, containing detailed information about all the employees of the company.
 
-# Tools
+### Tools
 
 ﻿﻿PowerBI - Data Cleaning, Data Analysis and Report creation
   
